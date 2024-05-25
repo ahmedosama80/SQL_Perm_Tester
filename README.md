@@ -6,6 +6,9 @@ you're an administrator verifying permissions or a developer checking
 database interactions, this tool is perfect for ensuring that your SQL
 permissions are correctly configured.
 
+![Capture](https://github.com/ahmedosama80/SQL_Perm_Tester/assets/4008100/3e58a089-3530-4b42-afab-e8e8412b8bad)
+
+
 **Features**
 
 -   **Connect to SQL Databases**: Easily connect to SQL databases by
