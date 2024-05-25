@@ -43,10 +43,7 @@ permissions are correctly configured.
 
 **Installation**
 
-1.  **Clone the repository**:
-
-> git clone https://github.com/ahmedosama80/SQL_Perm_Tester.git
-> com/yourusername/sql-permissions-tester.git
+1.  **Clone the repository**:  git clone https://github.com/ahmedosama80/SQL_Perm_Tester.git
 
 2.  **Open the project in Visual Studio**.
 
