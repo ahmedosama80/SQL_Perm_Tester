@@ -1,0 +1,15 @@
+
+## SA ##
+localhost
+sa
+1234
+testdb
+[testdb].[dbo].[Table_1]
+
+
+## User 1 ##
+localhost
+user1_login
+1234
+testdb
+[testdb].[dbo].[Table_1]

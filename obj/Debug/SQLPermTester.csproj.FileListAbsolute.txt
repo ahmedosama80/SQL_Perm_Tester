@@ -1,0 +1,9 @@
+E:\Projects\C#\SQLPermTester\bin\Debug\SQLPermTester.exe
+E:\Projects\C#\SQLPermTester\bin\Debug\SQLPermTester.pdb
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.csproj.AssemblyReference.cache
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.Form1.resources
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.Properties.Resources.resources
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.csproj.GenerateResource.cache
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.exe
+E:\Projects\C#\SQLPermTester\obj\Debug\SQLPermTester.pdb
